@@ -1,5 +1,11 @@
 # leakyleft
 
+[![license](https://img.shields.io/badge/license-Leakyleft_0.0.0_(Too_Late)-orange)](LICENSE)
+![compliance](https://img.shields.io/badge/compliance-passing-brightgreen)
+![problem](https://img.shields.io/badge/problem-still_present-red)
+![confidentiality](https://img.shields.io/badge/confidentiality-0%25-red)
+![availability](https://img.shields.io/badge/availability-100%25_(to_everyone)-brightgreen)
+
 **Your data. Their incident. Our paperwork.**
 
 A fictional copyleft license for personal data that has already escaped.
